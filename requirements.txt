@@ -1,0 +1,5 @@
+flet
+smtplib
+pgeocode
+mysql-connector-python
+pytz
