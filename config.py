@@ -1,5 +1,5 @@
 # Configurations
-
+# lib management
 # name of service
 SERVICE_NAME = "Shinchan Courier Service"
 
